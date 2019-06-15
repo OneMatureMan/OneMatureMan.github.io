@@ -6,7 +6,6 @@ date: 2019-06-15
 ---
 
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
 
 ## About
 
